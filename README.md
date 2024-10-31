@@ -1,5 +1,9 @@
 # Please try FormBricks it's far more feature rich and seems like it's an ethical FOSS alternative.
-If you depend on this project still at this point please consider adopting the project.  However I will wish to ensure that it will be in good hands and not just going to be another piece in the supply chain problems for FOSS.
+If you depend on this project at this point, please consider adopting it. However, I wish to ensure that it will be in good hands and not just another piece in the supply chain problems for FOSS.
+
+Otherwise, please have a look at https://formbricks.com. They are very far in excess of what we would've wanted to aim for here.  I think that ultimately the narrow scope of looking for a typeform alternative in OhMyForm and its journey was a fun one but I think Formbricks takes this much more seriously and their ethics are very much in line with our own.
+[https://formbricks.com](https://formbricks.com) and their github via their website.
+
 
 ![OhMyForm](public/logo.png)
 
